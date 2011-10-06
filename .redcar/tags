@@ -1,0 +1,13 @@
+1317924957
+Application	C:/Users/emmz/ridemo/config/application.rb	  class Application 
+ApplicationController	C:/Users/emmz/ridemo/app/controllers/application_controller.rb	class ApplicationController 
+ApplicationHelper	C:/Users/emmz/ridemo/app/helpers/application_helper.rb	module ApplicationHelper
+BrowsingTest	C:/Users/emmz/ridemo/test/performance/browsing_test.rb	class BrowsingTest 
+Ridemo	C:/Users/emmz/ridemo/config/application.rb	module Ridemo
+TestCase	C:/Users/emmz/ridemo/test/test_helper.rb	class ActiveSupport::TestCase
+WelcomeController	C:/Users/emmz/ridemo/app/controllers/welcome_controller.rb	class WelcomeController 
+WelcomeControllerTest	C:/Users/emmz/ridemo/test/functional/welcome_controller_test.rb	class WelcomeControllerTest 
+WelcomeHelper	C:/Users/emmz/ridemo/app/helpers/welcome_helper.rb	module WelcomeHelper
+WelcomeHelperTest	C:/Users/emmz/ridemo/test/unit/helpers/welcome_helper_test.rb	class WelcomeHelperTest 
+index	C:/Users/emmz/ridemo/app/controllers/welcome_controller.rb	  def index
+test_homepage	C:/Users/emmz/ridemo/test/performance/browsing_test.rb	  def test_homepage
